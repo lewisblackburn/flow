@@ -5,7 +5,7 @@
   Flow by zxffo
 </h1>
 <p align="center">
-  This is a react movie search app for a person project. <a href="https://zxffo.github.io/flow" target="_blank">view it here</a>
+  This is a react movie search app for a personal project. <a href="https://zxffo.github.io/flow" target="_blank">view it here</a>
 </p>
 
 ![demo](banner.png)
